@@ -3,9 +3,9 @@
 <!--
 **Harley98-22/Harley98-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Hi there 👋
+# Hi, I'm Harley! 👋
 
-I'm Harley! I'm passionate about software development, technology, and learning new things every day.
+I'm passionate about software development, technology, and learning new things every day.
 
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on beginner-friendly Python projects, automation tools, or small web apps where I can learn and grow my skills alongside others.
@@ -15,3 +15,4 @@ I'm Harley! I'm passionate about software development, technology, and learning 
 - ⚡ Fun fact: I drink a lot of tea!
 
 Thanks for stopping by! 🚀
+
